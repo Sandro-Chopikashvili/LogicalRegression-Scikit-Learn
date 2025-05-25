@@ -1,1 +1,17 @@
-asdas
+# Logistic Regression Project 🤖📊
+
+This project demonstrates the use of **Logistic Regression** to predict customer purchase behavior based on two features: **Age** and **Salary**.
+
+## Purpose 🎯
+
+The goal of this project is to build a machine learning model that classifies whether a customer will purchase a product or not, based on their age and salary data. Logistic Regression is used here because it is a straightforward and effective classification algorithm for binary outcomes (Yes/No).
+
+## What’s Inside 📦
+
+- Data preprocessing, including handling missing values and encoding categorical data  
+- Splitting data into training and test sets  
+- Training a Logistic Regression model  
+- Evaluating the model using accuracy, precision, recall, and confusion matrix  
+- Making predictions on new data points  
+- Visualizing the results with scatter plots and confusion matrix
+
